@@ -1,3 +1,11 @@
+// PRECONDITIONs
+//
+// You must be install in eclipse before:
+//
+// iText UpdateSite: Eclipse Marketplace Yoxos Lowagie text
+// Mylyn WikiText UpdateSite: http://download.eclipse.org/mylyn/releases/latest 
+// GEF Update Site: http://download.eclipse.org/tools/gef/updates/releases/
+
 // The git repository at eclpise.org that contains the slideshow example.
 // Use the 'git:' prefix to clone a git repository.
 //git:http://git.eclipse.org/gitroot/examples/org.eclipse.examples.slideshow.git
