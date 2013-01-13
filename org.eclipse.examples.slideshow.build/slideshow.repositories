@@ -1,6 +1,7 @@
 // The git repository at eclpise.org that contains the slideshow example.
 // Use the 'git:' prefix to clone a git repository.
 //git:http://git.eclipse.org/gitroot/examples/org.eclipse.examples.slideshow.git
+git:https://github.com/FunThomas424242/slideshow.git
  
 // The dependencies for slideshow are: Eclipse platform, JDT, GEF Draw2D, Wikitext (part of Mylyn) and Lowagie.
 // Use the 'get:' prefix to fetch files from the web.
