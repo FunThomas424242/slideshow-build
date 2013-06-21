@@ -19,9 +19,9 @@ get:http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/tools/gef/downloads/dro
 get:http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/mylyn/drops/3.8.1/v20120725-0100/mylyn-3.8.1.v20120725-0100.zip!plugins/org.eclipse.mylyn.wikitext.core_1.7.1.v20120725-0100.jar
 get:http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/mylyn/drops/3.8.1/v20120725-0100/mylyn-3.8.1.v20120725-0100.zip!plugins/org.eclipse.mylyn.wikitext.mediawiki.core_1.7.1.v20120725-0100.jar
 get:http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/tools/orbit/downloads/drops/R20130517111416/repository/plugins!com.lowagie.text_2.1.7.v201004222200.jar
-
+get:http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/tools/orbit/downloads/drops/R20130517111416/repository/plugins/org.junit_4.11.0.v201303080030.jar
 // junit
-get:http://jcenter.bintray.com/junit/junit/4.11/junit-4.11.jar
+//get:http://jcenter.bintray.com/junit/junit/4.11/junit-4.11.jar
 
 // Use the UpdateSite Build Stage to build an update site for the example.
 // Use the ! delimiter to access partial repositories or ZIP file entries.
